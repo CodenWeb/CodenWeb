@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ali
+- 👀 I like working on amazing projects.
+- 🌱 I’m currently learning python.
